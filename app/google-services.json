@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "912002742725",
+    "firebase_url": "https://assignment02-a181e-default-rtdb.firebaseio.com",
+    "project_id": "assignment02-a181e",
+    "storage_bucket": "assignment02-a181e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912002742725:android:27dbececb36a90eb8eb3ac",
+        "android_client_info": {
+          "package_name": "com.vn.firecontrolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96hxHKZ60wBd3D8g5AEf8wP-2tuh7xTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
